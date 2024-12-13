@@ -140,7 +140,7 @@ h1, h2, h3, h4 {
     transition: padding .5s ease; 
 }
 .program img {
-    width: 3o%; 
+    width: 30%; 
     margin-right: 10px;
     text-align: left;
 }
@@ -641,7 +641,7 @@ tbody tr:nth-child(odd) {
 }
 
 /* Ponsel Kecil (≤ 480px) */
-@media (max-width: 48opx) {
+@media (max-width: 480px) {
     body {
         font-size: 8px;
     }
